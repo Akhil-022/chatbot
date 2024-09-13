@@ -1,6 +1,0 @@
-Flask
-torch
-transformers
-Pillow
-opencv-python
-gTTS
